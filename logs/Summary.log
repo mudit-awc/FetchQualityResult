@@ -1,0 +1,10 @@
+[20 Dec 2019 14:24:11,650 :] - ==================================Summary Log Initialized==================================
+[20 Dec 2019 14:24:14,963 :] - Total pending WI in Queue... 4. Pending Process Instance ID's are [SupplyPo-0000000016-Invoices, SupplyPo-0000000024-Invoices, SupplyPo-0000000025-Invoices, SupplyPo-0000000026-Invoices]
+[20 Dec 2019 14:24:29,213 :] - Process Instance ID... SupplyPo-0000000016-Invoices
+[20 Dec 2019 14:24:29,213 :] - Status... Failure due to Quality Order not found.
+[20 Dec 2019 14:24:29,353 :] - Process Instance ID... SupplyPo-0000000024-Invoices
+[20 Dec 2019 14:24:29,353 :] - Status... Failure due to Quality Order not found.
+[20 Dec 2019 14:24:29,463 :] - Process Instance ID... SupplyPo-0000000025-Invoices
+[20 Dec 2019 14:24:29,463 :] - Status... Failure due to Quality Order not found.
+[20 Dec 2019 14:24:29,557 :] - Process Instance ID... SupplyPo-0000000026-Invoices
+[20 Dec 2019 14:24:29,557 :] - Status... Failure due to Quality Order not found.

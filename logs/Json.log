@@ -1,0 +1,13 @@
+[20 Dec 2019 14:24:11,650 :] - ==================================Json Log Initialized==================================
+[20 Dec 2019 14:24:14,963 :] - Process Instance ID... SupplyPo-0000000016-Invoices
+[20 Dec 2019 14:24:14,979 :] - InputJSON... {"PONumber":"102PO2002511","PackingSlipId":"Challan1"}
+[20 Dec 2019 14:24:29,197 :] - OutputJSON... {"ErrorMessage":"Quality Order not found.","FromDate":null,"IsSuccess":false,"ItemId":null,"ItemName":null,"OrderStatus":null,"QODate":null,"Qty":0,"QualityOrderID":null,"SXAQORMContractList":null,"SXAQORMGRNContractList":null,"Site":null,"Source":null,"TestGroup":null,"ToDate":null,"TransporterId":null,"TransporterName":null,"VendorId":null,"VendorName":null}
+[20 Dec 2019 14:24:29,228 :] - Process Instance ID... SupplyPo-0000000024-Invoices
+[20 Dec 2019 14:24:29,228 :] - InputJSON... {"PONumber":"102PO2002511","PackingSlipId":"Challan2"}
+[20 Dec 2019 14:24:29,353 :] - OutputJSON... {"ErrorMessage":"Quality Order not found.","FromDate":null,"IsSuccess":false,"ItemId":null,"ItemName":null,"OrderStatus":null,"QODate":null,"Qty":0,"QualityOrderID":null,"SXAQORMContractList":null,"SXAQORMGRNContractList":null,"Site":null,"Source":null,"TestGroup":null,"ToDate":null,"TransporterId":null,"TransporterName":null,"VendorId":null,"VendorName":null}
+[20 Dec 2019 14:24:29,369 :] - Process Instance ID... SupplyPo-0000000025-Invoices
+[20 Dec 2019 14:24:29,369 :] - InputJSON... {"PONumber":"102PO2002511","PackingSlipId":"Challan1"}
+[20 Dec 2019 14:24:29,463 :] - OutputJSON... {"ErrorMessage":"Quality Order not found.","FromDate":null,"IsSuccess":false,"ItemId":null,"ItemName":null,"OrderStatus":null,"QODate":null,"Qty":0,"QualityOrderID":null,"SXAQORMContractList":null,"SXAQORMGRNContractList":null,"Site":null,"Source":null,"TestGroup":null,"ToDate":null,"TransporterId":null,"TransporterName":null,"VendorId":null,"VendorName":null}
+[20 Dec 2019 14:24:29,463 :] - Process Instance ID... SupplyPo-0000000026-Invoices
+[20 Dec 2019 14:24:29,463 :] - InputJSON... {"PONumber":"102PO2002511","PackingSlipId":"Challan2"}
+[20 Dec 2019 14:24:29,557 :] - OutputJSON... {"ErrorMessage":"Quality Order not found.","FromDate":null,"IsSuccess":false,"ItemId":null,"ItemName":null,"OrderStatus":null,"QODate":null,"Qty":0,"QualityOrderID":null,"SXAQORMContractList":null,"SXAQORMGRNContractList":null,"Site":null,"Source":null,"TestGroup":null,"ToDate":null,"TransporterId":null,"TransporterName":null,"VendorId":null,"VendorName":null}

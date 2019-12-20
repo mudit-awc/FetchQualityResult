@@ -1,0 +1,3 @@
+[20 Dec 2019 14:24:11,650 :] - ==================================Error Log Initialized==================================
+[20 Dec 2019 14:24:13,760 :] - Re-connected with newgen database. 
+[20 Dec 2019 14:24:29,610 :] - Error while executing product call. java.lang.NullPointerException

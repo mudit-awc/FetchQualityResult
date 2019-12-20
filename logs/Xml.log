@@ -1,0 +1,23 @@
+[20 Dec 2019 14:24:11,650 :] - ==================================XML Log Initialized==================================
+[20 Dec 2019 14:24:13,760 :] - Creating flow server connection... 
+[20 Dec 2019 14:24:13,760 :] - INPUT... <? xml version="1.0"?><NGOConnectCabinet_Input><Option>NGOConnectCabinet</Option><CabinetName>wonder</CabinetName><UserName>supervisor</UserName><UserPassword>supervisor351</UserPassword><Scope>ADMIN</Scope><UserExist>N</UserExist><CurrentDateTime></CurrentDateTime><UserType>U</UserType><MainGroupIndex>0</MainGroupIndex><Locale></Locale></NGOConnectCabinet_Input>
+[20 Dec 2019 14:24:14,838 :] - OUTPUT... <?xml version="1.0"?>
+<NGOConnectCabinet_Output>
+<Option>NGOConnectCabinet</Option>
+<Folders>
+<Folder>
+<FolderIndex>0</FolderIndex><ParentFolderIndex>-1</ParentFolderIndex><FolderName>wonder</FolderName><OwnerIndex>1</OwnerIndex><CreationDateTime>2019-10-03 15:01:33.51</CreationDateTime><RevisedDateTime>2019-10-03 15:01:33.51</RevisedDateTime><AccessDateTime>2019-12-18 15:27:53.54</AccessDateTime><DataDefIndex>0</DataDefIndex><AccessType>S</AccessType><ImageVolumeIndex>1</ImageVolumeIndex><FolderType>G</FolderType><FolderLock>N</FolderLock><Location>R</Location><DeletedDateTime>2019-10-03 15:01:33.51</DeletedDateTime><VersionFlag>N</VersionFlag><ExpiryDateTime>2119-10-03 15:01:33.51</ExpiryDateTime><Comment></Comment><ACL>G1#010000011,</ACL><FinalizedFlag>N</FinalizedFlag><FinalizedDateTime>2019-10-03 15:01:33.51</FinalizedDateTime><ACLMoreFlag>N</ACLMoreFlag><LoginUserRights>1111111111</LoginUserRights><Owner>Supervisor</Owner><NoOfDocuments>0</NoOfDocuments><NoOfSubFolders>1</NoOfSubFolders></Folder>
+</Folders>
+<Cabinet>
+<CabinetName>wonder</CabinetName><CabinetType>B</CabinetType><CreationDateTime>2019-10-03 15:01:33.51</CreationDateTime><VersionFlag>N</VersionFlag><SecurityLevel>2</SecurityLevel><FTSDatabasePath>wonder#2019-10-03 15:01:34</FTSDatabasePath><CabinetLockFlag>N</CabinetLockFlag><ImageVolumeIndex>1</ImageVolumeIndex><LoginUserIndex>1</LoginUserIndex><UserPasswordExpire>N</UserPasswordExpire><LastLoginTime>2019-12-18 09:59:26.477</LastLoginTime><IsMakerCheckerEnabled>N</IsMakerCheckerEnabled><IsAdmin>Y</IsAdmin><EnableDDTFTS>N</EnableDDTFTS><BuildVersion>10.0.00</BuildVersion><UserName>Supervisor</UserName><UserInbox>6</UserInbox><UserSentItem>7</UserSentItem><UserTrash>8</UserTrash><PersonalName>Supervisor</PersonalName><Account>1</Account><ThemeColor>3399cc</ThemeColor><PreferredFolderIndex>0</PreferredFolderIndex><EnableDataSecurity>N</EnableDataSecurity><Privileges>1111111111111111</Privileges></Cabinet>
+<Services>
+</Services>
+<UserDBId>1213534325</UserDBId><UserType>U</UserType><Status>0</Status><LeftLoginAttempts>5</LeftLoginAttempts></NGOConnectCabinet_Output>
+
+[20 Dec 2019 14:24:29,557 :] - Disconnecting flow server connection... 
+[20 Dec 2019 14:24:29,584 :] - INPUT... <?xml version="1.0"?><NGODisconnectCabinet_Input><Option>NGODisconnectCabinet</Option><CabinetName>wonder</CabinetName><UserDBId>1213534325</UserDBId></NGODisconnectCabinet_Input>
+[20 Dec 2019 14:24:29,610 :] - OUTPUT... <?xml version="1.0"?>
+<NGODisconnectCabinet_Output>
+<Option>NGODisconnectCabinet</Option>
+<Status>0</Status><UserDBId>1213534325</UserDBId><LoginUserIndex>1</LoginUserIndex></NGODisconnectCabinet_Output>
+
