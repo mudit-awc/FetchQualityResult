@@ -47,7 +47,7 @@ public class InitiateProcessing {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Hi From Main");
+		System.out.println("From Main");
 		try {
 			new StartWorkitemProcessing().completePendingWI();
 		} catch (Exception e) {
